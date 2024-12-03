@@ -24,7 +24,8 @@ circle(dot.canvas, (x,y), radius, dot.aqua, -1)
 https://github.com/user-attachments/assets/c33506d9-497d-4a19-b1d6-adafd2f192c7
 
 *Due to copyright issues, I can't upload the full video on YouTube, but this is probably the rendering effect
-CODE：([see code](one-week2-SpongeBob.py))
+
+([see code](one/week2-SpongeBob1.py))
 
 ## Square? Round!
 
