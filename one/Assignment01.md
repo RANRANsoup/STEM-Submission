@@ -53,7 +53,7 @@ I tried to explore how to cause shape changes in different ways:
 ```
 REFLECTION: Although this algorithm seems clean, this method may not be perfect when highly accurate graphics or dynamic shape changes are required.
 
-[Here's a demo of my attempt:](https://github.com/RANRANsoup/STEM-Submission/blob/a67e64ec3e19a819c7e2c473e6694a206ca8ba0e/one/week2-SpongeBob2.py)
+Here's a demo of my attempt: [see code](https://github.com/RANRANsoup/STEM-Submission/blob/a67e64ec3e19a819c7e2c473e6694a206ca8ba0e/one/week2-SpongeBob2.py)
 
 
 
@@ -66,7 +66,7 @@ https://github.com/user-attachments/assets/f5a230ba-f9ff-497e-9283-36a894be2ed8
 
 ## Integration
 
-I incorporated this attempt into my Week 2 assignment by combining mouse movements with shape changes to achieve a new background.
+I incorporated this attempt into my Week 2 assignment by combining mouse movements with shape changes to achieve a new background. [see code](https://github.com/RANRANsoup/STEM-Submission/blob/d17a15d25148d992fa48df4e0ca7a07b063093c8/one/week2-SpongeBob2.py)
 
 
 https://github.com/user-attachments/assets/6c70efaa-b956-4962-b929-1905e9290f66
