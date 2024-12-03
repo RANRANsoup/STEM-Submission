@@ -28,7 +28,7 @@
 
 https://github.com/user-attachments/assets/f97ed6ee-a48d-4605-b51f-86c5319e686b
 
-
+[code here](https://github.com/RANRANsoup/STEM-Submission/blob/c2748d1aed6019f5486fc25c66eee9452c1aca17/two/week5-soothing%20music.py)
 
 
 ## 问题与挑战
