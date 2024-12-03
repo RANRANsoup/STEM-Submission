@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/c33506d9-497d-4a19-b1d6-adafd2f192c7
 
 *Due to copyright issues, I can't upload the full video on YouTube, but this is probably the rendering effect
 
-([see code]([one/week2-SpongeBob1.py](https://github.com/RANRANsoup/STEM-Submission/blob/657aad07e79e7962219e49c3d44b1522d4c8a9d5/one/week2-SpongeBob1.py)))
+([see code]([one/week2-SpongeBob1.py](https://github.com/RANRANsoup/STEM-Submission/blob/657aad07e79e7962219e49c3d44b1522d4c8a9d5/one/week2-SpongeBob1.py))
 
 ## Square? Round!
 
