@@ -53,7 +53,7 @@ I tried to explore how to cause shape changes in different ways:
 ```
 REFLECTION: Although this algorithm seems clean, this method may not be perfect when highly accurate graphics or dynamic shape changes are required.
 
-Here's a demo of my attempt:
+[Here's a demo of my attempt:](https://github.com/RANRANsoup/STEM-Submission/blob/a67e64ec3e19a819c7e2c473e6694a206ca8ba0e/one/week2-SpongeBob2.py)
 
 
 
