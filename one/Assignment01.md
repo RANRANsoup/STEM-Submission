@@ -69,7 +69,11 @@ https://github.com/user-attachments/assets/f5a230ba-f9ff-497e-9283-36a894be2ed8
 I incorporated this attempt into my Week 2 assignment by combining mouse movements with shape changes to achieve a new background. [see code](https://github.com/RANRANsoup/STEM-Submission/blob/d17a15d25148d992fa48df4e0ca7a07b063093c8/one/week2-SpongeBob2.py)
 
 
-https://github.com/user-attachments/assets/6c70efaa-b956-4962-b929-1905e9290f66
+
+
+https://github.com/user-attachments/assets/5496b005-fc7d-438f-8d3e-0b02128173f5
+
+
 
 ## Little progress 
 
