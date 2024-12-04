@@ -86,4 +86,4 @@ https://github.com/user-attachments/assets/29485622-6285-4624-8950-be667b28c141
 
 I have significantly improved my understanding of the visualisation of different styles of music visualisation through audio input. The visual design needs to echo the qualities of the music, but it also needs to avoid a sense of instability caused by over-responsiveness. I used to think that most music visualisations looked monotonous, just long and short squares, but I now understand that it is their mission to be applicable to a wider range of scenarios.
 
-As a next step, I plan to further explore how to increase the use of subtraction in design, reflecting the overall fluidity and rhythm of the design, and enhancing the coherence and aesthetics of the visual presentation.
+As a next step, I plan to further explore the use of subtraction in design to enhance its coherence and aesthetics.
