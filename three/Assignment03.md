@@ -21,6 +21,8 @@ color = (int(255 * color_factor), int(255 * (1 - color_factor)), int(255 * (colo
 
 https://github.com/user-attachments/assets/15b12838-0e9d-49fe-937d-69d9f0678b64
 
+[code here](https://github.com/RANRANsoup/STEM-Submission/blob/f856a04d3d20bdb7b514ebee24f7ade7b3e606bd/three/week8-lamp1.py) 
+
 This effect is very intuitive and can be perceived as a dynamic change in the sphere by mouse movement. When the mouse is close to the ball, the radius of the ball will increase, the shape will become more compressed, and the colour will gradually change from red to green, presenting a distance-aware effect.
 
 ## Confusing attempts
