@@ -59,6 +59,8 @@ offset_y = np.sin(angle) * radius * 0.6
 
 https://github.com/user-attachments/assets/cac68496-0b0f-44bf-aa0f-9a5fdd97a3f8
 
+[code here](https://github.com/RANRANsoup/STEM-Submission/blob/63cd5d5c2d3068ee9ea8dbf9633391bf69193404/three/week8-lamp2.py)
+
 REFLECTION: The accumulation of these practices leads to a dazzling effect on the image. I learnt an important principle here: design is not only about addition, but also about trade-offs.
 
 ## Back to simple
