@@ -109,6 +109,7 @@ ellipse(layer, ellipse_center, (width + 10, height + 10), 0, 0, 360, (255, 255, 
 
 ```
 
+[code here](https://github.com/RANRANsoup/STEM-Submission/blob/a4323f4a765a2fcf81b3e1c246f0ebf56ca25ec1/three/week8-lamp3.py)
 
 https://github.com/user-attachments/assets/3e0471f8-a5fe-4ac8-9807-29e74ffc44da
 
