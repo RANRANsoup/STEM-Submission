@@ -1,4 +1,4 @@
-# Week 2: Exploring the Integration of Geometry and Audio Response
+# Week 2 Exploring the Integration of Geometry and Audio Response
 
 This week, I focused on exploring how simple geometric shapes can be combined with audio responses to create an interesting and rhythmic motion picture.
 
