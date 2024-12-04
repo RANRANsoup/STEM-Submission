@@ -1,8 +1,9 @@
 # Week 8 – 1 From Complexity to Simplicity
 
-This week my research topic is exploring how interaction design can make visual elements change in interesting and dynamic ways as users interact with them through mathematical functions and animation effects.
+This week's research topic is to explore how to make visual elements have interesting dynamic changes with user interaction through mathematical functions and animation effects in interactive design.
 
-I chose this topic for my research because I believe that dynamic feedback in design often enhances viewer immersion, and how to make this feedback more expressive through mathematical calculations is an area worth exploring. I hope to understand how to control the naturalness and precision of animation through mathematical formulas, and also explore how to balance richness and simplicity in design to avoid overly complex effects that can affect the audience's attention.
+The reason why I chose this topic for research is that I think the dynamic feedback in design can often enhance the immersion of the audience, and how to make this feedback 
+more expressive through mathematical calculations is an area worth exploring. I hope to understand how to control the naturalness and accuracy of animation through mathematical formulas, and also discuss how to balance richness and conciseness in design to avoid overly complex effects affecting the attention of the audience.
 
 ## Starting Point
 
